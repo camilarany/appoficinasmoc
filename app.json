@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "lojamila",
+    "slug": "lojamila",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "56ba6a98-8e7c-494b-b53d-f9150ec02cbe"
+      }
+    }
+  }
+}
